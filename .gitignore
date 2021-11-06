@@ -1,0 +1,16 @@
+references
+data
+logs
+.idea
+writing
+lib_old
+lib_old2
+.ipynb_checkpoints/
+is_running
+results
+results_MARS
+models
+lightning_logs
+my_sbatch
+notebooks_Vaughan
+__pycache__/
